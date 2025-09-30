@@ -15,7 +15,7 @@ video_metadata:
 ---
 ## Required Texts
 
-Acemoglu, D. {{% resource_link "29388f15-9c83-417b-b869-099effb06f08" "*Introduction to Modern Economic Growth*" %}}. Cambridge, MA: Massachusetts Institute of Technology, 2007.
+Acemoglu, D. [*Introduction to Modern Economic Growth*](https://www.theigc.org/sites/default/files/2016/06/acemoglu-2007.pdf). Cambridge, MA: Massachusetts Institute of Technology, 2007.
 
 Barro, R. J., and X. Sala-i-Martin. *Economic Growth*. New York, NY: McGraw-Hill, 1995. ISBN: 0070036977.
 
@@ -53,13 +53,13 @@ Barro, R. J., and X. Sala-i-Martin. *Economic Growth*, 1995, chapters 1 and 12.
 
 ### Recommended Readings
 
-{{% resource_link "f688af69-f384-4e62-a66d-5093672041b8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Barro, R. {{% resource_link "f688af69-f384-4e62-a66d-5093672041b8" "*Determinants of Economic Growth: A Cross-Country Empirical Study*" %}}. Cambridge, MA: MIT Press, 1997. ISBN: 0262024217.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/determinants-economic-growth) Barro, R. [*Determinants of Economic Growth: A Cross-Country Empirical Study*](https://mitpress.mit.edu/books/determinants-economic-growth). Cambridge, MA: MIT Press, 1997. ISBN: 0262024217.
 
 Hall, R., and C. Jones. "Why Do Some Countries Produce So Much More Output than Others?" *Quarterly Journal of Economics* 114 (1999): 83-116.
 
 Jones, C. "On the Evolution of the World Income Distribution." *Journal of Economic Perspectives* 11 (1997): 19-36.
 
-{{% resource_link "f771b72b-8cad-43cc-a885-552d55395cc9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Klenow, P., and A. Rodríguez-Clare. "The Neoclassical Revival in Growth Economics: Has It Gone Too Far?" Chapter 2 in {{% resource_link "f771b72b-8cad-43cc-a885-552d55395cc9" "*NBER Macroeconomics Annual 1997*" %}}. Edited by Ben S. Bernanke and Julio Rotemberg. Cambridge, MA: MIT Press, 1997. ISBN: 026252242X.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/nber-macroeconomics-annual-1997) Klenow, P., and A. Rodríguez-Clare. "The Neoclassical Revival in Growth Economics: Has It Gone Too Far?" Chapter 2 in [*NBER Macroeconomics Annual 1997*](https://mitpress.mit.edu/books/nber-macroeconomics-annual-1997). Edited by Ben S. Bernanke and Julio Rotemberg. Cambridge, MA: MIT Press, 1997. ISBN: 026252242X.
 
 Klenow, P., and M. Bils. "Does Schooling Cause Growth?" *American Economic Review* 90 (2000): 1160-1183.
 
@@ -99,7 +99,7 @@ Barro, R. J., and X. Sala-i-Martin. *Economic Growth*, 1995, chapters 2-3.
 
 ### Recommended Readings
 
-{{% resource_link "b53ad66a-3588-46db-9b44-d8a2b5650721" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Blanchard, O., and S. Fischer. {{% resource_link "b53ad66a-3588-46db-9b44-d8a2b5650721" "*Lectures on Macroeconomics*" %}}. Cambridge, MA: MIT Press, 1989. chapter 3. ISBN: 0262022834.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/lectures-macroeconomics) Blanchard, O., and S. Fischer. [*Lectures on Macroeconomics*](https://mitpress.mit.edu/books/lectures-macroeconomics). Cambridge, MA: MIT Press, 1989. chapter 3. ISBN: 0262022834.
 
 Cass, D. "Optimum Growth in an Aggregative Model of Capital Accumulation: A Turnpike Theorem." *Econometrica* 34 (1966): 833-850.
 
@@ -125,7 +125,7 @@ Growth with Overlapping Generations
 
 Acemoglu, D. *Introduction to Modern Economic Growth*, chapter 9.
 
-Atkeson, A., V. V. Chari, and P. Kehoe. "Taxing Capital Income: A Bad Idea." {{% resource_link "856a8f28-c225-4446-82f2-cc98f20b258d" "*Federal Reserve Bank of Minneapolis Quarterly Review*" %}} 23, no. 3 (Summer 1999): 3-17.
+Atkeson, A., V. V. Chari, and P. Kehoe. "Taxing Capital Income: A Bad Idea." [*Federal Reserve Bank of Minneapolis Quarterly Review*](https://www.minneapolisfed.org/research/quarterly-review/taxing-capital-income-a-bad-idea) 23, no. 3 (Summer 1999): 3-17.
 
 Lucas, R. E., Jr. "Asset Prices in an Exchange Economy." *Econometrica* 46 (1978): 1429-1445.
 
@@ -147,11 +147,11 @@ Barro, R. "Ramsey Meets Laibson in the Neoclassical Growth Model." *Quarterly Jo
 
 Baxter, M., and R. King. "Fiscal Policy in General Equilibrium." *American Economic Review* 78 (1988): 315-334.
 
-{{% resource_link "b53ad66a-3588-46db-9b44-d8a2b5650721" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Blanchard, O., and S. Fischer. {{% resource_link "b53ad66a-3588-46db-9b44-d8a2b5650721" "*Lectures on Macroeconomics*" %}}. Cambridge, MA: MIT Press, 1989, chapter 3, sections 5.1-5.2, sections 10.1, and 11.3. ISBN: 0262022834.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/lectures-macroeconomics) Blanchard, O., and S. Fischer. [*Lectures on Macroeconomics*](https://mitpress.mit.edu/books/lectures-macroeconomics). Cambridge, MA: MIT Press, 1989, chapter 3, sections 5.1-5.2, sections 10.1, and 11.3. ISBN: 0262022834.
 
 Chamley, C. "Optimal Taxation of Capital Income in General Equilibrium with Infinite Lives." *Econometrica* 54 (1986): 607-622.
 
-Chari, V. V., and P. Kehoe. "Optimal Fiscal and Monetary Policy." {{% resource_link "bb358960-789f-489e-a114-d558c1383343" "*National Bureau of Economic Research*" %}} Working Paper no. 6891, 1999, pp. 1-119.
+Chari, V. V., and P. Kehoe. "Optimal Fiscal and Monetary Policy." [*National Bureau of Economic Research*](http://www.nber.org/papers/w6891) Working Paper no. 6891, 1999, pp. 1-119.
 
 Diamond, P. "National Debt in a Neoclassical Growth Model." *American Economic Review* 55 (1965): 1126-1150.
 
@@ -191,11 +191,11 @@ Barro, R. J., and X. Sala-i-Martin. *Economic Growth*, 1995, chapters 4-5.
 
 ### Recommended Readings
 
-{{% resource_link "01dc2aa5-58a3-4b07-a775-bd0c1512b84c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Aghion, P., P. Howitt, M. Brant-Collett, and C. Garcia-Peñalosa. {{% resource_link "01dc2aa5-58a3-4b07-a775-bd0c1512b84c" "*Endogenous Growth Theory*" %}}. Cambridge, MA: MIT Press, 1998, chapter 10. ISBN: 0262011662.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/endogenous-growth-theory) Aghion, P., P. Howitt, M. Brant-Collett, and C. Garcia-Peñalosa. [*Endogenous Growth Theory*](https://mitpress.mit.edu/books/endogenous-growth-theory). Cambridge, MA: MIT Press, 1998, chapter 10. ISBN: 0262011662.
 
 Barro, R. J. "Government Spending in a Simple Model of Endogenous Growth." *Journal of Political Economy* 98 (1990): S103-S125.
 
-{{% resource_link "2d830d74-f7d4-42cb-b06f-92a789bf0283" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Caballero, R., and A. Jaffe. "How High Are the Giants Shoulders?" In {{% resource_link "2d830d74-f7d4-42cb-b06f-92a789bf0283" "*NBER Macroeconomics Annual 1993*" %}}. Edited by Olivier Blanchard and Stanley Fischer. Cambridge, MA: MIT Press, 1993. ISBN: 0262023644.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/nber-macroeconomics-annual-1993) Caballero, R., and A. Jaffe. "How High Are the Giants Shoulders?" In [*NBER Macroeconomics Annual 1993*](https://mitpress.mit.edu/books/nber-macroeconomics-annual-1993). Edited by Olivier Blanchard and Stanley Fischer. Cambridge, MA: MIT Press, 1993. ISBN: 0262023644.
 
 Lucas, R. E., Jr. "Making a Miracle." *Econometrica* 61 (1993): 251-272.
 
@@ -243,7 +243,7 @@ Romer, P. M. "Endogenous Technological Change." *Journal of Political Economy* 9
 
 Acemoglu, D. "Directed Technical Change." *Review of Economic Studies* 69 (2001): 781-810.
 
-{{% resource_link "01dc2aa5-58a3-4b07-a775-bd0c1512b84c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Aghion, P., P. Howitt, M. Brant-Collett, and C. Garcia-Peñalosa. {{% resource_link "01dc2aa5-58a3-4b07-a775-bd0c1512b84c" "*Endogenous Growth Theory*" %}}. Cambridge, MA: MIT Press, 1998, chapters 1-3. ISBN: 0262011662.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/endogenous-growth-theory) Aghion, P., P. Howitt, M. Brant-Collett, and C. Garcia-Peñalosa. [*Endogenous Growth Theory*](https://mitpress.mit.edu/books/endogenous-growth-theory). Cambridge, MA: MIT Press, 1998, chapters 1-3. ISBN: 0262011662.
 
 Barro, R., and X. Sala-i-Martin. "Public Finance in Models of Economic Growth." *Review of Economic Studies* 59 (1992): 645-662.
 

@@ -23,6 +23,7 @@
     "website": "14-451-macroeconomic-theory-i-spring-2007"
   },
   "course_title": "Macroeconomic Theory I",
+  "hide_download": true,
   "course_description": "Introduction to the theories of economic growth. Topics will include basic facts of economic growth and long-run economic development; brief overview of optimal control theory and dynamic programming; basic neoclassical growth model under a variety of market structures; human capital and economic growth; endogenous growth models; models with endogenous technology; models of directed technical change; competition, market structure and growth; financial and economic development; international trade and economic growth; institutions and economic development. This is a half-term subject. The class size is limited.\n",
   "department_numbers": [
     "14"
@@ -33,6 +34,7 @@
     "content": "e13dad5f-b2f3-8b88-4c4a-055e99ed2e42",
     "website": "14-451-macroeconomic-theory-i-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

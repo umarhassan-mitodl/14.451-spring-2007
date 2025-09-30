@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes preliminary lecture notes for the course which
   may contain incomplete sections.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
