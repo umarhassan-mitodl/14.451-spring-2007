@@ -4,8 +4,6 @@ description: This resource contains Problem Set 4.
 file: /courses/14-451-macroeconomic-theory-i-spring-2007/f20a32882b1d711893bc07a29da2f498_probset_4.pdf
 file_size: 75348
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
