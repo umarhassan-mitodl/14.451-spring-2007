@@ -27,7 +27,7 @@ If you are an MIT Economics Ph.D. student, you have to take the course (or pass 
 
 ## Prerequisites
 
-[*14.461 Advanced Macroeconomics I*](https://ocw.mit.edu/courses/economics/14-461-advanced-macroeconomics-i-fall-2012/)
+{{% resource_link "e5a90c84-262a-4119-bfed-de8af26ec55a" "*14.461 Advanced Macroeconomics I*" %}}
 
 ## Grading
 
@@ -49,7 +49,7 @@ Bonus points are also given for class participation.
 
 ## Required Texts
 
-Acemoglu, D. [*Introduction to Modern Economic Growth*](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth?srsltid=AfmBOorIX44m0fbM1fftDcE-QjKaVC8ZzkKDgqrZP0SJuXM8kQIlkmJB). Cambridge, MA: Massachusetts Institute of Technology, 2007.
+Acemoglu, D. {{% resource_link "4798abbf-99af-4fe6-9baf-1743dc931a8f" "*Introduction to Modern Economic Growth*" %}}. Cambridge, MA: Massachusetts Institute of Technology, 2007.
 
 Barro, R. J., and X. Sala-i-Martin. *Economic Growth*. New York, NY: McGraw-Hill, 1995. ISBN: 0070036977.
 
